@@ -1,3 +1,5 @@
+//This is a sample feature file demonstrating background functionality with out having the actual logic
+//in its respective step definition file.
 Feature: Check home page functionlity
 
   Background: user is logged in
