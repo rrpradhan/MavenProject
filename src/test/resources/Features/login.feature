@@ -1,4 +1,4 @@
-Feature: Feature to test login funcitonality
+Feature: Feature to test login functionality
 
   Scenario Outline: Check login is successful using valid credentials
     Given our browser is open
@@ -9,4 +9,8 @@ Feature: Feature to test login funcitonality
 
     Examples: 
       | mobile_number | name   |
+<<<<<<< HEAD
       |   9777959064  | Raman  |
+=======
+      |   9777959064 | Raman |
+>>>>>>> 827548ca937fba1cbb29494a25c378455552b835
