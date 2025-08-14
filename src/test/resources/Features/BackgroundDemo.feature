@@ -1,6 +1,6 @@
-//This is a sample feature file demonstrating background functionality with out having the actual logic
-//in its respective step definition file.
-Feature: Check home page functionlity
+#This is a sample feature file demonstrating background functionality with out having the actual logic
+#in its respective step definition file.
+Feature: Check home page functionality
 
   Background: user is logged in
     Given user is present on login page

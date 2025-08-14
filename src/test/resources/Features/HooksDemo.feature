@@ -1,4 +1,4 @@
-Feature: Check Login functionlity
+Feature: Check Login functionality
 
   Scenario: Check 01
     Given user comes to login page

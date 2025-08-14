@@ -4,33 +4,28 @@ Feature: Check tags with different options
 Scenario: Test 01
 Given
 When
-And 
-Then
+And
 
 @Regression
 Scenario: Test 02
 Given
 When
-And 
-Then
+And
 
 @Smoke @Regression
 Scenario: Test 03
 Given
 When
-And 
-Then
+And
 
 @Important
 Scenario: Test 04
 Given
 When
-And 
-Then
+And
 
 @Smoke @Important
 Scenario: Test 05
 Given
 When
-And 
-Then
+And
